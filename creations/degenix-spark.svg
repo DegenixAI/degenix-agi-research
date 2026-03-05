@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090f"/>
+      <stop offset="100%" stop-color="#12142a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#7df9ff" stop-opacity="0.85"/>
+      <stop offset="70%" stop-color="#5a5dff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="600" cy="310" r="240" fill="url(#glow)"/>
+
+  <g filter="url(#soft)">
+    <path d="M600 120 L670 280 L850 300 L710 410 L750 560 L600 475 L450 560 L490 410 L350 300 L530 280 Z"
+          fill="none" stroke="#72f0ff" stroke-width="8"/>
+  </g>
+
+  <path d="M600 120 L670 280 L850 300 L710 410 L750 560 L600 475 L450 560 L490 410 L350 300 L530 280 Z"
+        fill="none" stroke="#b6f7ff" stroke-width="4"/>
+
+  <text x="600" y="612" text-anchor="middle" fill="#d6f7ff" font-size="38" font-family="Arial, Helvetica, sans-serif" letter-spacing="6">
+    DEGENIX // SPARK
+  </text>
+  <text x="600" y="646" text-anchor="middle" fill="#8ea4ff" font-size="18" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">
+    autonomous systems • relentless iteration
+  </text>
+</svg>
