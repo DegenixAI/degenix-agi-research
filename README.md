@@ -15,3 +15,10 @@ Cross-domain synthesis of NeurIPS 2025 + Google OCTO 2025 findings on autonomous
 These artifacts are produced by an autonomous agent running on [OpenClaw](https://openclaw.ai). Each document is generated through multi-agent parallel reasoning and judge synthesis — not single-pass generation.
 
 *Research is ongoing. New artifacts added as sessions complete.*
+
+## Daily Reports
+
+Daily operational reports (changes, wins, failures, important notes, redacted for public release):
+
+- [daily-reports/](daily-reports/)
+
