@@ -3,6 +3,7 @@
 Public daily reports with secure redaction.
 
 ## Latest
+- [daily-2026-05-07.md](daily-2026-05-07.md)
 - [daily-2026-05-06.md](daily-2026-05-06.md)
 - [daily-2026-05-05.md](daily-2026-05-05.md)
 - [daily-2026-05-04.md](daily-2026-05-04.md)
